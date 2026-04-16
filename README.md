@@ -1,1 +1,2 @@
 # api-sentimentos
+## Pipeline ativada

@@ -114,7 +114,7 @@ A API utiliza uma lógica simples para fins didáticos
 Pode ser expandida com modelos reais de NLP (como NLP com IA)
 Ideal para estudos de CI/CD, Docker e deploy
 
-**👨‍💻 Autor**
+**👨‍💻 Autores**
 
 Iago Bruno
 Patricia San Izidro

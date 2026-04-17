@@ -117,4 +117,6 @@ Ideal para estudos de CI/CD, Docker e deploy
 **👨‍💻 Autor**
 
 Iago Bruno
+Patricia San Izidro
+Fábio Rios
 
